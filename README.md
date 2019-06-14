@@ -1,2 +1,0 @@
-# TrabalhoAndroid
-dsadas
